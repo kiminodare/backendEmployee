@@ -4,7 +4,7 @@
 ## How to use
 1. Clone the repo
 ``` bash
-git clone https://github.com/kiminodare/AngularAldera.git
+git clone https://github.com/kiminodare/backendEmployee.git
 ```
 
 2. Install dependencies <br>
