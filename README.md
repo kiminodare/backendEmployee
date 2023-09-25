@@ -4,7 +4,7 @@
 ## How to use
 1. Clone the repo
 ``` bash
-git clone https://github.com/kiminodare/backendEmployee.git
+git clone https://github.com/kiminodare/AngularAldera.git
 ```
 
 2. Install dependencies <br>
@@ -19,7 +19,7 @@ PORT="3000"
 DATABASE_URL="mysql://(username:password)@localhost:3306/(letakdatabase)"
 LOG_LEVEL="silent"
 ```
-- Setelah selesai, jalankan perintah ``` npx tsc -w``` lalu akses backend server di http://localhost:3000.
+- Setelah selesai, jalankan perintah ```npx tsc -w``` dan ``` npm start ``` lalu akses backend server di http://localhost:3000.
 
 ## 🧑🏻‍💻 Usage
 
